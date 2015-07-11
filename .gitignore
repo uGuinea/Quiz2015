@@ -41,3 +41,25 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+node_modules/express-generator/templates/hogan/index.hjs
+*.hbs
+node_modules/express-generator
+node_modules/.bin/express.cmd
+node_modules/express-generator/node_modules/.bin/mkdirp
+node_modules/express-generator/node_modules/commander/LICENSE
+node_modules/express-generator/node_modules/commander/node_modules/graceful-readlink/index.js
+node_modules/.bin/express
+node_modules/express-generator/node_modules/commander/History.md
+node_modules/express-generator/node_modules/commander/node_modules/graceful-readlink/package.json
+node_modules/express-generator/templates/js/www
+node_modules/express-generator/templates/js/gitignore
+node_modules/express-generator/templates/hogan/error.hjs
+node_modules/express-generator/templates/js/app.js
+node_modules/express-generator/templates/css/style.styl
+node_modules/express-generator/templates/ejs/index.ejs
+node_modules/express-generator/node_modules/commander/node_modules/graceful-readlink/README.md
+node_modules/express-generator/node_modules/mkdirp/LICENSE
+node_modules/express-generator/node_modules/.bin/mkdirp.cmd
+node_modules/express-generator/templates/js/routes/users.js
+node_modules/express-generator/templates/jade/index.jade
+node_modules/express-generator/node_modules/mkdirp/node_modules/minimist/test/long.js
