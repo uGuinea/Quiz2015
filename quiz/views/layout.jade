@@ -3,7 +3,21 @@ html
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet',media='only screen and (min-width:530px) and  (min-device-width:481px)', href='/stylesheets/wide.css')
+    link(rel='stylesheet', media='only screen and (min-width:480px)', href='/stylesheets/smartphone.css')
     link(rel='icon', href='favicon.ico', type='image/x-icon')
 
+
   body
-    block content
+    div(id='page-wrap')
+      header(class="main", id="h1")
+        h2 Quiz: El juego de las preguntas
+      nav(class="main", id="n1", role="navigation")
+        span
+          a(href="/") Inicio
+        BR
+        span
+          a(href="/quizes/question") Preguntas
+      section(class="main", id="s1")
+        block content
+      footer(class="main",id="f1")
