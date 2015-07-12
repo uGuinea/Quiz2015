@@ -17,7 +17,7 @@ body {
 	color: black;
 }
 
-section > div {padding: 20px;}
+section > div {padding: 20px; }
 header, nav, section,footer {
 	background: #ccc;
 	text-align: center;
