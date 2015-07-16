@@ -12,7 +12,7 @@ var sequelize = new Sequelize(null,null,null,
   sequelize.sync().then(function(){
     Quiz.count().then(function(count){
       //if(count===0){
-        Quiz.create({pregunta:'aaaaSCapital de Italiaw',
+        Quiz.create({pregunta:'aaaaS Capital de Italiaw',
         respuesta:"Roma"}
       ).then(function(){console.log("Base de datos started")});
       //}
